@@ -1,3 +1,5 @@
+package Praktikum1;
+
 public class Studio {
     int nomorStudio;
     int kapasitasKursi;
