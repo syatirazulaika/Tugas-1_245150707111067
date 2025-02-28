@@ -1,4 +1,4 @@
-package Praktikum1;
+package PraktikumSatu;
 
 public class Tiket {
     int nomorTiket;
