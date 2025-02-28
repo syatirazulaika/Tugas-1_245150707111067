@@ -1,4 +1,4 @@
-package praktikum1;
+package PraktikumSatu;
 
 public class Penonton {
     String namaPenonton;
