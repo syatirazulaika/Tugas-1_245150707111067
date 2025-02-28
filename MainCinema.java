@@ -1,8 +1,8 @@
-package Praktikum1;
+package PraktikumSatu;
 
 import java.util.Scanner;
 
-public class Mainnyoba {
+public class MainCinema {
     public static void main(String[] args) {
         Scanner sytr = new Scanner(System.in);
         int jumlahPenonton;
